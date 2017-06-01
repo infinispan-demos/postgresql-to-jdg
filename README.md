@@ -8,13 +8,13 @@ This project is an example showing how to read data from a PostgreSQL database a
 2. Install [Red Hat JBoss Data Grid](http://developers.redhat.com/products/datagrid/hello-world)
 3. Install [PostgreSQL](https://wiki.postgresql.org/wiki/Detailed_installation_guides)
 
-### Build application jdg-cache-producer
+### Build application postgresql-to-jdg
 
 ```bash
 $ mvn -s settings.xml clean install
 ```
 
-### Run application jdg-cache-producer
+### Run application postgresql-to-jdg
 
 ```bash
 $ mvn -s settings.xml exec:java
