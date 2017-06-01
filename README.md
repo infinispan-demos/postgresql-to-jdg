@@ -20,4 +20,8 @@ $ mvn -s settings.xml clean install
 $ mvn -s settings.xml exec:java
 ```
 
+## Blogs
 
+Here's a list of blog posts where this demo has been featured:
+
+* 3rd April 2017 - [Offload your database data into an in-memory data grid for fast processing made easy](https://developers.redhat.com/blog/2017/04/03/offload-your-database-data-into-an-in-memory-data-grid-for-fast-processing-made-easy/)
